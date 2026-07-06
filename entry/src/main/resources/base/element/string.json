@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Wearable web content permission and debugging framework sample"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Web permission and console debugging host"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Web Permission Console"
+    },
+    {
+      "name": "perm_reason_location",
+      "value": "Provide your location to the weather widget loaded in the web view"
+    },
+    {
+      "name": "perm_reason_microphone",
+      "value": "Allow web content to capture microphone input when granted"
+    }
+  ]
+}

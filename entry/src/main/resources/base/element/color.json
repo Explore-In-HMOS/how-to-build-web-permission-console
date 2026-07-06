@@ -1,0 +1,96 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "page_background",
+      "value": "#FF101014"
+    },
+    {
+      "name": "panel_background",
+      "value": "#FF1C1C22"
+    },
+    {
+      "name": "accent",
+      "value": "#FF4C8DFF"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFF2F2F2"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#FFB0B0B8"
+    },
+    {
+      "name": "level_debug",
+      "value": "#FF8E8E93"
+    },
+    {
+      "name": "level_info",
+      "value": "#FF4C8DFF"
+    },
+    {
+      "name": "level_log",
+      "value": "#FF34C759"
+    },
+    {
+      "name": "level_warn",
+      "value": "#FFFF9F0A"
+    },
+    {
+      "name": "level_error",
+      "value": "#FFFF453A"
+    },
+    {
+      "name": "surface",
+      "value": "#FF2C2C34"
+    },
+    {
+      "name": "scrim",
+      "value": "#99000000"
+    },
+    {
+      "name": "decision_grant",
+      "value": "#FF34C759"
+    },
+    {
+      "name": "decision_grant_retain",
+      "value": "#FF30A14E"
+    },
+    {
+      "name": "decision_deny",
+      "value": "#FFFF453A"
+    },
+    {
+      "name": "net_cat_ok",
+      "value": "#FF34C759"
+    },
+    {
+      "name": "net_cat_dns",
+      "value": "#FFFF9F0A"
+    },
+    {
+      "name": "net_cat_timeout",
+      "value": "#FFFFD60A"
+    },
+    {
+      "name": "net_cat_connection",
+      "value": "#FFFF453A"
+    },
+    {
+      "name": "net_cat_tls",
+      "value": "#FFBF5AF2"
+    },
+    {
+      "name": "net_cat_protocol",
+      "value": "#FF5AC8FA"
+    },
+    {
+      "name": "net_cat_unknown",
+      "value": "#FF8E8E93"
+    }
+  ]
+}
