@@ -2,7 +2,7 @@
 
 # How to Build Web Permission Console
 
-A wearable web-content permission and debugging framework for HarmonyOS Next smart wearables. The app hosts a local weather widget inside an ArkWeb `Web` component and demonstrates how to grant per-origin location permission, answer web permission requests, intercept `console.*` output for debugging, resolve JavaScript dialogs, and classify network errors. The codelab teaches how to safely host interactive web content on a watch and react to everything the page asks for.
+A wearable web-content permission and debugging framework for HarmonyOS smart wearables. The app hosts a local weather widget inside an ArkWeb `Web` component and demonstrates how to grant per-origin location permission, answer web permission requests, intercept `console.*` output for debugging, resolve JavaScript dialogs, and classify network errors. The codelab teaches how to safely host interactive web content on a watch and react to everything the page asks for.
 
 # Preview
 
